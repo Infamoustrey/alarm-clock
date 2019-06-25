@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Trey Foster <treybfoster@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "set-alarm": "node index"
+  },
   "dependencies": {
     "moment": "^2.24.0",
     "open": "^6.3.0",
