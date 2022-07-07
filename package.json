@@ -8,7 +8,7 @@
     "set-alarm": "node index"
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "open": "^6.3.0",
     "ora": "^3.4.0"
   }
